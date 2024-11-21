@@ -11,7 +11,7 @@ yarn dev
 # or 
 pnpm dev      
 # or          
-bun dev  b 
+bun dev  b  
 ``` b 
 
 Open via url [http://localhost:3000](http://localhost:3000) with your browser to see the result.
